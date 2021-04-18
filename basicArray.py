@@ -22,7 +22,7 @@ print(array == array2) 		# True
 
 # mutability 
 
-x = 5 
+x = 88
 print(x + 1)		# 6 
 x + 1 				# x is not 6.. because x is immutable 
 print(x)
